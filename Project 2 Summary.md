@@ -37,15 +37,15 @@ RMSE: 91.69
 
 **Linear Regression Assumptions Testing**
 
-<img src="model plot" width=500>
+<img src="model plot.png" width=500>
 
-<img src="Q-Q plot" width=500>
+<img src="Q-Q plot.png" width=500>
 
-<img src="res dist" width=500>
+<img src="res dist.png" width=500>
 
 **Feature Importance**
 
-<img src="feature importance" width=500>
+<img src="feature importance.png" width=500>
 
 **Tools**
 * BeautifulSoup and Selenium for web scraping
