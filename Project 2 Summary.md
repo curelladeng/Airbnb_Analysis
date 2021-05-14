@@ -36,6 +36,7 @@ R^2: 0.59
 RMSE: 91.69
 
 **Linear Regression Assumptions Testing**
+
 <img src="model plot" width=500>
 
 <img src="Q-Q plot" width=500>
