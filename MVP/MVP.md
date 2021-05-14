@@ -4,13 +4,13 @@ The goal of this project is to understand which features are most important in i
 
 To start exploring this goal, I started from calculating the correlation matrix to identify features are highly correlated with my target variable (price), also try to capture possible collinearity.
 
-![](pairplot.png)
+<img src="pairplot.png" width=500>
 
 
 I used a linear regression model with all features available in my web scraping dataset to predict the rental price.
 
 Below is the performance of my base model:
-![]((pairplot.png)
-![]((coef.png)
+<img src="summary1.png" width=500>
+<img src="coef.png" width=500>
 
 And the R^2 of the test data is 0.47, thus more improvement are needed in this model.
