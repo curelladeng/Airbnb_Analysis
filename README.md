@@ -1,4 +1,4 @@
-# Linear Regression: abb_rental
+# Linear Regression: Airbnb Rental Price
 
 #### Analysis Summary:
 The goal of this project was to use linear regression model to identify features that are highly correlated with rental price on Airbnb, 
