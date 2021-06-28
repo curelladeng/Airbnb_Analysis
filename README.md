@@ -1,11 +1,11 @@
 # Linear Regression: Airbnb Rental Price
 
 #### Analysis Summary:
-The goal of this project was to use linear regression model to identify features that are highly correlated with rental price on Airbnb, 
+The goal of this project is to use linear regression model to identify features that are highly correlated with rental price on Airbnb, 
 in order to help Airbnb hosts understand which property features could help to ask for higher rental price. 
-The data I worked with contains rental price as the target variable, and some geographic and categorical attributes of active listings in Lake Tahoe. 
+The data I worked with contains rental price as the target variable, and some geographic and categorical attributes of listings in Lake Tahoe. 
 The final linear regression model was applied Lasso Regularization to help with feature selections, and RMSE was used to evaluate the model performance. 
-This model was able to identify that #accomdates, #bathrooms and the location scores are 3 major features to impact rental price.
+The feature importance shows that #accomdates, #bathrooms and the location scores are 3 major features to impact rental price.
 
 <img src="plots/feature importance.png" width=500>
 
