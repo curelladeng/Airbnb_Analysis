@@ -27,7 +27,7 @@ RMSE: 91.69
 
 <img src="plots/res dist.png" width=500>
 
-**Feature Importance**
+## Insights
 
 <img src="plots/feature importance.png" width=500>
 
