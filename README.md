@@ -20,11 +20,11 @@ The dataset contains 1,261 unique active listings in Lake Tahoe and 27 features.
 Adjusted R^2: 0.59\
 RMSE: 91.69
 
-<img src="model_plot.png" width=500>
+<img src="plots/model_plot.png" width=500>
 
-<img src="Q-Q plot.png" width=500>
+<img src="plots/Q-Q plot.png" width=500>
 
-<img src="res dist.png" width=500>
+<img src="plots/res dist.png" width=500>
 
 <img src="plots/feature importance.png" width=500>
 
