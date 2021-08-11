@@ -8,8 +8,8 @@ The final linear regression model was applied Lasso Regularization to help with 
 The feature importance shows that #accomdates, #bathrooms and the location scores are 3 major features to impact rental price.
 
 #### Model Performance
-Adjusted R^2 - Cross Validation: 0.55
-Adjusted R^2 - Test Data: 0.59
+Adjusted R^2 - Cross Validation: 0.55\
+Adjusted R^2 - Test Data: 0.59\
 RMSE - Test Data: 91.69
 
 <img src="plots/feature importance.png" width=500>
