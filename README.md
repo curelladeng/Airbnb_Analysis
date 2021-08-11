@@ -31,6 +31,12 @@ RMSE: 91.69
 
 <img src="plots/feature importance.png" width=500>
 
+Factors impact rental price most:
+
+* How many people the property accommodates 
+* The number of bathrooms
+* Ratings on neighborhood environment
+
 
 #### Tools:
 * Python3 BeautifulSoup + Selenium
